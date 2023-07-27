@@ -1,2 +1,2 @@
 this is another example to explain Working Directory, Staging area, Local Repository 
-and Remote Repository
+and Remote Repository.
